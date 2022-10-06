@@ -1,0 +1,1 @@
+Primero creamos el documento HTML, donde crearemos el formulario con la función input type text, number, checkbox y file. Una vez lo tgenemos creado y con su nombre asignado, en ela rchivo recive creamos un if, indicando que si en el formulario se selecciona la opción alumno se cree un echo, en canvio si se selecciona la opción profesor se crea uno distinto. . 

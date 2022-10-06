@@ -1,0 +1,1 @@
+Primero creamos el archivo HTML donde crearemos el formulario con la función input type number, a la cual le asignamos el name: Numero. Luego creamos con el input type submit el botón de envio. Cuando tenemos el formulario creado, pasamos al archivo recive donde se guardaran las respuestas. Creamos un bucle for que nos cree tantas linias como numeros se indique en el formulario.

@@ -1,0 +1,1 @@
+Primero creamos el documento HTML, donde crearemos el formulario con la función input type text. Le asignamos el name: Nombre y creamos el botón de enviar con el type submit. Luego gracias a la funcion strlen, el programa cuenta el numero de letras que tiene la palabra y con el echo se muestra.
